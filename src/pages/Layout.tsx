@@ -4,8 +4,8 @@ const Layout = () => {
     return (
         <>
         <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/contact">Contact</Link>
+        <Link to="/about">About Us</Link>
+        <Link to="/contact">Contact Us</Link>
         <Outlet />
         </>
     )
